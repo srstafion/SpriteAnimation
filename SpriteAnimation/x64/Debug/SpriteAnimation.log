@@ -1,0 +1,7 @@
+﻿  SpriteAnimation.cpp
+C:\Users\Denis pipis\source\repos\SpriteAnimation\SpriteAnimation\SpriteAnimation.cpp(75,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\SpriteAnimation\SpriteAnimation\SpriteAnimation.cpp(75,44): warning C4244:         with
+C:\Users\Denis pipis\source\repos\SpriteAnimation\SpriteAnimation\SpriteAnimation.cpp(75,44): warning C4244:         [
+C:\Users\Denis pipis\source\repos\SpriteAnimation\SpriteAnimation\SpriteAnimation.cpp(75,44): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\SpriteAnimation\SpriteAnimation\SpriteAnimation.cpp(75,44): warning C4244:         ]
+  SpriteAnimation.vcxproj -> C:\Users\Denis pipis\source\repos\SpriteAnimation\SpriteAnimation\x64\Debug\SpriteAnimation.exe
